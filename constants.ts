@@ -1,0 +1,1 @@
+export const GLOBAL_SINGLE_USER_ID = 10;
